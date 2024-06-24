@@ -31,8 +31,8 @@ PeerOrgs:
   # ---------------------------------------------------------------------------
   # Org1
   # ---------------------------------------------------------------------------
-  - Name: san_Org1
-    Domain: san_org1.example.com
+  - Name: Org1
+    Domain: org1.example.com
     EnableNodeOUs: true
 
     Template:
@@ -45,8 +45,8 @@ PeerOrgs:
     Users:
       Count: 1
 
-  - Name: ric_Org2
-    Domain: ric_org2.example.com
+  - Name: Org2
+    Domain: org2.example.com
     EnableNodeOUs: true
 
     Template:
