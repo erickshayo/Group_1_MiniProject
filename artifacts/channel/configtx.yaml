@@ -49,7 +49,7 @@ Organizations:
         # For organization policies, their canonical path is usually
         #   /Channel/<Application|Orderer>/<OrgName>/<PolicyName>
         Policies:
-            Readers:
+            Readers: 
                 Type: Signature
                 Rule: "OR('Org1MSP.admin', 'Org1MSP.peer', 'Org1MSP.client')"
             Writers:
