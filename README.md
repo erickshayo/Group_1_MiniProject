@@ -19,3 +19,4 @@ Read Hyperledger Fabric Blockchain Documentation V1.4 and develop a FabCar Block
 - [Michael Cyril Michael](https://www.github.com/michaelcyril)
 - [Richard . H . Mteri](https://www.github.com/Richy04)
 - [Erick Leonard Shayo](https://www.github.com/erickshayo)
+- [Kelvin .P. Mahalu](https://www.github.com/Kmahalu)
